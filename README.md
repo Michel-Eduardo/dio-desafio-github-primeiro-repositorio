@@ -1,4 +1,4 @@
-
 # Desafio do Git/GitHub (Dio)
 #### <p> Seja bem-vindo ao meu repositório!<p>
-<p>Neste repositório estarei mostrando sobre os primeiros projetos passados pelo a __dio.me__, contando cada pedacinho de conquuista, tendo espaço  para colocar meus certificados fornecidos pela dio,.me. </p><p> Além dos primeiros projetos, também estarei estar postando slides e materias para estudos.</p>
+ <p>O repositório está sendo criado através do primeiro projeto do Orange Tech +,, um bootcamp que foi oferecido pelo dio.me, que está nos ensinando a mexer com o Front-end e Back-end desde a estaca zero abordando os princípio as tecnologias JavaScript, HTML, CSS, Typescript e React.</p>
+<p>Neste repositório estarei mostrando sobre os primeiros projetos passados pelo a __dio.me__, contando um pouco sobre o que  eu aprendi, através dos slides passados em aula, reservando também um  espaço  para colocar os certificados fornecidos pela dio.me que foi realizado durante este período de aprendizado.</p><p> O primeiro projeto passado foi para que criássemos nosso repositório no GitHub, com o intuito de se familiarizar com o GitHub, para futuros projetos e também nosso futuro.</p>
