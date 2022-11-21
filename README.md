@@ -1,8 +1,3 @@
-#.cor {
-  border-top: 10px,
-  background-color: #FFD700,
-  }
-
 
 # Desafio do Git/GitHub (Dio)
 #### <p> Seja bem-vindo ao meu repositório!<p>
