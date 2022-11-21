@@ -1,4 +1,4 @@
-.cor {
+#.cor {
   border-top: 10px;
   background-color: #FFD700;
   }
