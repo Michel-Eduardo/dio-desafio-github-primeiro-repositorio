@@ -1,6 +1,6 @@
 #.cor {
-  border-top: 10px;
-  background-color: #FFD700;
+  border-top: 10px,
+  background-color: #FFD700,
   }
 
 
